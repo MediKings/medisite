@@ -154,3 +154,13 @@
   });
 
 })(jQuery);
+
+
+// let sites = document.getElementById("work")
+
+// document.addEventListener('click', alert('Vous avez cliqué!'))
+
+
+
+
+
