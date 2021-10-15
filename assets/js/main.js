@@ -153,12 +153,15 @@
     });
   });
 
+  // On click, contact admin
+  $('.site_page').click(function(e) {
+    e.preventDefault()
+    alert('Veillez contacter l\'administrateur pour voir ce site')
+  })
+
 })(jQuery);
 
 
-// let sites = document.getElementById("work")
-
-// document.addEventListener('click', alert('Vous avez cliqué!'))
 
 
 
