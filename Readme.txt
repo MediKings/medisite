@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Welcome !
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: MediSite
+Template URL: https://medikings.github.io/
+Author: Medi King's
